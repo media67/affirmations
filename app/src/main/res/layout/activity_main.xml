@@ -14,3 +14,6 @@
         app:layoutManager="LinearLayoutManager"
         />
 </FrameLayout>
+<!--change the linearlayoutmanager property to gridlayoutmanager-->
+<!--change the column count to 3-->
+<!--change the adapter layout to visualize data in a grid-->
